@@ -1,0 +1,20 @@
+.profile{
+    display: inline-flex;
+    background-color: aqua;
+    border-radius: 10px;
+    align-items: center;
+    flex-flow: column nowrap;
+    padding: 25px;
+    text-align: center;
+    align-content: center;
+}
+body{
+  display: inline-flex;
+    background-color: crimson;
+}
+/* .Me{
+    display: flex;
+    align-self: center;
+    flex-direction: column
+    float: left;
+} */
